@@ -85,7 +85,7 @@ GitHub: [https://bit.ly/3RGRWEv](https://bit.ly/3RGRWEv)
 Platforms: Android, iOS, Windows  
 GitHub: [https://bit.ly/3RGRWEv](https://bit.ly/3RGRWEv)
 
-> _7 more projects developed using similar teck stack and technology_
+> _7 more projects developed using similar tech stack and technology_
 
 ---
 
