@@ -75,7 +75,13 @@ GitHub: [https://bit.ly/4ie9kv7](https://bit.ly/4ie9kv7)
 
 ---
 
-### **ABC kids games for toddlers**  
+### **ABC games for kids**  
+Platforms: Android, iOS, Windows  
+GitHub: [https://bit.ly/4ctkr2i](https://bit.ly/4ctkr2i)
+
+---
+
+### **ABC phonics games for toddlers**  
 Platforms: Android, iOS, Windows  
 GitHub: [https://bit.ly/3RGRWEv](https://bit.ly/3RGRWEv)
 
