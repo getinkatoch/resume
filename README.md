@@ -65,19 +65,19 @@
 
 ### **Preschool Learning Games**  
 Platforms: Android, iOS, Windows  
-GitHub: [http://bit.ly/3iNeZiP](http://bit.ly/3iNeZiP)
+GitHub: [https://bit.ly/43JRTiJ](https://bit.ly/43JRTiJ)
 
 ---
 
-### **School Baby Games for Kids**  
+### **Kindergarten kid Learning Game**  
 Platforms: Android, iOS, Windows  
-GitHub: [http://bit.ly/3uHOSg9](http://bit.ly/3uHOSg9)
+GitHub: [https://bit.ly/4ie9kv7](https://bit.ly/4ie9kv7)
 
 ---
 
-### **ABC Kids Preschool Baby Games**  
+### **ABC kids games for toddlers**  
 Platforms: Android, iOS, Windows  
-GitHub: [http://bit.ly/3PoTCR5](http://bit.ly/3PoTCR5)
+GitHub: [https://bit.ly/3RGRWEv](https://bit.ly/3RGRWEv)
 
 > _7 more projects developed using similar stack and technology_
 
