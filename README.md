@@ -13,7 +13,7 @@
 - **Languages**: C++, Java, C, Javascript/Typescript, HTML/CSS
 - **Frameworks & Engines**: Cocos2d-x, Cocos Creator, Parse Platform
 - **Mobile Platforms**: Android, iOS, Windows
-- **Dev Tools**: Android Studio, Visual Studio, Xcode, IntelliJ IDEA, Git, GitHub, Bitbucket, Jira
+- **Dev Tools**: Android Studio, Visual Studio, Xcode, IntelliJ IDEA, Git, GitHub, Bitbucket
 - **Design**: OOP, Design Patterns, Low/High Level Design, DSA
 - **Tech Concepts**: REST, JSON/XML, SQLite, Cloud (basic understanding)
 - **OS Experience**:
@@ -93,5 +93,3 @@ GitHub: [http://bit.ly/3PoTCR5](http://bit.ly/3PoTCR5)
 ## 🛠 Debugging & Tools
 
 - GDB / DDD
-- Git Bash
-- Eclipse
