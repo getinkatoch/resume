@@ -79,6 +79,12 @@ GitHub: [https://bit.ly/4ie9kv7](https://bit.ly/4ie9kv7)
 Platforms: Android, iOS, Windows  
 GitHub: [https://bit.ly/3RGRWEv](https://bit.ly/3RGRWEv)
 
+---
+
+### **Play school & Daycare Management - Umbli App**  
+Platforms: Android, iOS, Windows  
+GitHub: [https://bit.ly/3RGRWEv](https://bit.ly/3RGRWEv)
+
 > _7 more projects developed using similar stack and technology_
 
 ---
